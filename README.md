@@ -1,3 +1,4 @@
+<html>
 # BlockChange-Democracy
 Elevate Hackathon GitHub Repository
 
@@ -13,3 +14,4 @@ Katherine
 waun
 
 kendall
+</html>
